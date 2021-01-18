@@ -1,0 +1,26 @@
+.bg-color{
+    background-color: #FFF9F4;
+}
+.top-hight{
+    height: 700px;
+}
+.top-fonts{
+    font-size: 50px;
+    font-weight: bold;
+}
+.bg-vanish{
+    background: rgb(231, 231, 231);
+
+}
+.feedback-width{
+    width:45%;
+}
+.border-red{
+    border:0;
+}
+.costome-color{
+    color:rgb(46, 52, 122);
+}
+.title-color{
+    color: rgba(250, 128, 76, 1);
+}
